@@ -1,4 +1,4 @@
-//go:build darwin || freebsd || netbsd ||  linux || solaris || windows
+//go:build darwin || freebsd || netbsd || linux || solaris || windows
 // +build darwin freebsd netbsd linux solaris windows
 
 package fs
